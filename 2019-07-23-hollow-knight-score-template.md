@@ -84,25 +84,25 @@
 - [x] Gathering Swarm
 - [x] Stalwart Shell
 - [x] Soul Catcher
-- [ ] Shaman Stone
+- [x] Shaman Stone
 - [x] Soul Eater
 - [x] Dashmaster
 - [x] Sprintmaster
 - [ ] Thorns of Agony
-- [ ] Fury of the Fallen
+- [x] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
 - [ ] Spell Twister
 - [x] Steady Body
-- [ ] Heavy Blow
+- [x] Heavy Blow
 - [x] Quick Slash
-- [ ] Longnail
+- [x] Longnail
 - [x] Mark of Pride
 - [x] Baldur Shell
 - [x] Flukenest
 - [x] Defender's Crest
-- [ ] Glowing Womb
+- [x] Glowing Womb
 - [x] Quick Focus
 - [ ] Deep Focus
 - [x] Lifeblood Heart
@@ -112,7 +112,7 @@
 - [ ] Grubberfly's Elegy
 - [ ] Hiveblood
 - [x] Spore Shroom
-- [ ] Sharp Shadow
+- [x] Sharp Shadow
 - [ ] Shape of Unn
 - [x] Nailmaster's Glory
 - [x] Dream Wielder
