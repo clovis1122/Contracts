@@ -8,7 +8,7 @@
 
 - [x] Lurien the Watcher
 - [ ] Monomon the Teacher
-- [ ] Herrah the Beast
+- [x] Herrah the Beast
 
 ### Key Items
 
@@ -27,7 +27,7 @@
 - [ ] Howling Wraiths
 - [ ] Abyss Shriek
 - [x] Vengeful Spirit
-- [ ] Shade Soul
+- [x] Shade Soul
 
 ### Important items
 
@@ -62,7 +62,7 @@
 - [x] Mask Shard 9
 - [x] Mask Shard 10
 - [x] Mask Shard 11
-- [ ] Mask Shard 12
+- [x] Mask Shard 12
 - [ ] Mask Shard 13
 - [ ] Mask Shard 14
 - [ ] Mask Shard 15
@@ -113,6 +113,7 @@
 - [ ] Hiveblood
 - [x] Spore Shroom
 - [x] Sharp Shadow
+- [x] Weaversong
 - [ ] Shape of Unn
 - [x] Nailmaster's Glory
 - [x] Dream Wielder
