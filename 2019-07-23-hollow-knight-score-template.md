@@ -7,7 +7,7 @@
 ### Dreamers
 
 - [x] Lurien the Watcher
-- [ ] Monomon the Teacher
+- [x] Monomon the Teacher
 - [x] Herrah the Beast
 
 ### Key Items
@@ -24,7 +24,7 @@
 
 - [x] Desolate Dive
 - [x] Descending Dark
-- [ ] Howling Wraiths
+- [x] Howling Wraiths
 - [ ] Abyss Shriek
 - [x] Vengeful Spirit
 - [x] Shade Soul
@@ -72,7 +72,7 @@
 - [x] Vessel Fragment 3
 - [x] Vessel Fragment 4
 - [x] Vessel Fragment 5
-- [ ] Vessel Fragment 6
+- [x] Vessel Fragment 6
 - [ ] Vessel Fragment 7
 - [ ] Vessel Fragment 8
 - [ ] Vessel Fragment 9
@@ -90,9 +90,9 @@
 - [x] Sprintmaster
 - [ ] Thorns of Agony
 - [x] Fury of the Fallen
-- [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
-- [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
-- [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
+- [x] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
+- [x] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
+- [x] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
 - [ ] Spell Twister
 - [x] Steady Body
 - [x] Heavy Blow
