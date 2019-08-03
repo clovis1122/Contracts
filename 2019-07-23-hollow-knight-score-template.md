@@ -2,7 +2,7 @@
 
 ### Beat the game
 
-- [ ] Defeated the Hollow Knight
+- [x] Defeated the Hollow Knight
 
 ### Dreamers
 
