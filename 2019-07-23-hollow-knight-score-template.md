@@ -6,7 +6,7 @@
 
 ### Dreamers
 
-- [ ] Lurien the Watcher
+- [x] Lurien the Watcher
 - [ ] Monomon the Teacher
 - [ ] Herrah the Beast
 
@@ -85,7 +85,7 @@
 - [x] Stalwart Shell
 - [x] Soul Catcher
 - [ ] Shaman Stone
-- [ ] Soul Eater
+- [x] Soul Eater
 - [x] Dashmaster
 - [ ] Thorns of Agony
 - [ ] Fury of the Fallen
@@ -93,13 +93,13 @@
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
 - [ ] Spell Twister
-- [ ] Steady Body
+- [x] Steady Body
 - [ ] Heavy Blow
 - [x] Quick Slash
 - [ ] Longnail
 - [x] Mark of Pride
 - [x] Baldur Shell
-- [ ] Flukenest
+- [x] Flukenest
 - [x] Defender's Crest
 - [ ] Glowing Womb
 - [x] Quick Focus
