@@ -60,8 +60,8 @@
 - [x] Mask Shard 7
 - [x] Mask Shard 8
 - [x] Mask Shard 9
-- [ ] Mask Shard 10
-- [ ] Mask Shard 11
+- [x] Mask Shard 10
+- [x] Mask Shard 11
 - [ ] Mask Shard 12
 - [ ] Mask Shard 13
 - [ ] Mask Shard 14
@@ -70,8 +70,8 @@
 - [x] Vessel Fragment 1
 - [x] Vessel Fragment 2
 - [x] Vessel Fragment 3
-- [ ] Vessel Fragment 4
-- [ ] Vessel Fragment 5
+- [x] Vessel Fragment 4
+- [x] Vessel Fragment 5
 - [ ] Vessel Fragment 6
 - [ ] Vessel Fragment 7
 - [ ] Vessel Fragment 8
@@ -81,12 +81,13 @@
 ### Charms
 
 - [x] Wayward Compass
-- [ ] Gathering Swarm
+- [x] Gathering Swarm
 - [x] Stalwart Shell
 - [x] Soul Catcher
 - [ ] Shaman Stone
 - [x] Soul Eater
 - [x] Dashmaster
+- [x] Sprintmaster
 - [ ] Thorns of Agony
 - [ ] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
